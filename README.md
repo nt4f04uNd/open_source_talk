@@ -1,3 +1,9 @@
+## Контакты и материалы
+
+- [Материалы доклада](https://github.com/nt4f04uNd/open_source_talk)
+- Мой телеграм [@nt4f04und](https://t.me/nt4f04und)
+- Мой LinkedIn [@nt4f04und](https://www.linkedin.com/in/nt4f04und/)
+
 ## Источники
 
 **Ролик от команды Flutter, вдохновивший доклад**
