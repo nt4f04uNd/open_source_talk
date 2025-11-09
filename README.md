@@ -15,7 +15,6 @@
 - [CONTRIBUTING.md](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
 - [Code of conduct](https://github.com/flutter/flutter/blob/master/CODE_OF_CONDUCT.md)
 - [Style guide for Flutter repo](https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md)
-- [Tree Hygiene](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md)
 
 **3 - Подготовка окружения**
 
@@ -28,11 +27,21 @@
 - [Фильтр по лейблу **good first issue** во Flutter](https://github.com/flutter/flutter/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [What should I work on? (Flutter)](https://github.com/flutter/flutter/blob/master/docs/contributing/What-should-I-work-on.md)
 
+**5 - Работа на задачей**
+
+- [Tree Hygiene](https://github.com/flutter/flutter/blob/master/docs/contributing/Tree-hygiene.md)
+- [Design Documents](https://github.com/flutter/flutter/blob/master/docs/contributing/Design-Documents.md)
+- [Data-driven Fixes](https://github.com/flutter/flutter/blob/master/docs/contributing/Data-driven-Fixes.md)
+
 **Мой первый ПР**
 
 - [Мое приложение Sweyer](https://github.com/nt4f04uNd/sweyer/)
 - [Задача](https://github.com/flutter/flutter/issues/64400)
 - [Pull request](https://github.com/flutter/flutter/pull/65057/)
+
+**Вы молодцы!**
+
+- [GitHub Arctic code vault](https://archiveprogram.github.com/arctic-vault/)
 
 **Где пригодилось?**
 
@@ -90,6 +99,7 @@
 - Картинки брендов являются торговыми марками соответсвующих компаний и используются исключительно в информационных целях:
   - Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
   - Discord and the Clyde logo are trademarks of Discord Inc. Used here for informational purposes only.
-  - Logos of Linux, Android, Telegram, Python, and Visual Studio Code are trademarks of their respective owners. Used here for informational purposes only.
+  - Logos of GitHub, Linux, Android, Telegram, Python, and Visual Studio Code are trademarks of their respective owners. Used here for informational purposes only.
 - Мемы и прочие картинки на слайдах являются общественным достоянием, либо сгенерированы при помощи ChatGPT. Кроме: 
    - Мема из [Code of conduct](https://xkcd.com/1053/)
+   - Изображения [Arctic code vault](https://hive.blog/hive-163521/@themarkymark/github-archive-vault)
