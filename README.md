@@ -18,7 +18,6 @@
 
 **3 - Подготовка окружения**
 
-- **TODO!!!**: фикс Flutter setup дока
 - [Настройка Flutter Framework](https://github.com/flutter/flutter/blob/master/docs/contributing/Setting-up-the-Framework-development-environment.md)
 - [Настройка Flutter Engine](https://github.com/flutter/flutter/blob/master/docs/engine/contributing/Setting-up-the-Engine-development-environment.md)
 
