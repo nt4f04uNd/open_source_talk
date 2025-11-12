@@ -4,6 +4,15 @@
 - Мой телеграм [@nt4f04und](https://t.me/nt4f04und)
 - Мой LinkedIn [@nt4f04und](https://www.linkedin.com/in/nt4f04und/)
 
+## Flutter + Yandex Open source
+
+- yx_scope
+  - [Обзор на Habr](https://habr.com/ru/companies/yandex/articles/852278/)
+  - [pub](https://pub.dev/packages/yx_scope)
+- yx_state
+  - [Обзор на Habr](https://habr.com/ru/companies/yandex/articles/933726/)
+  - [pub](https://pub.dev/packages/yx_state)
+
 ## Рассказы коллег
 
 - [Богдан Лукин — Как я перестал бояться и полюбил компилятор Dart ](https://www.youtube.com/watch?v=ygr7WrCgEe4)
@@ -13,7 +22,7 @@
 - [Сергей Бережной — «Зачем мы занимаемся опенсорсом? А они? А вы?» ](https://www.youtube.com/watch?v=cdEU2jNVYRM)
 - [Ролик от команды Flutter, вдохновивший доклад: How to contribute to Flutter (The Boring Flutter Development Show, Ep. 53)](https://www.youtube.com/watch?v=4yBgOBAOx_A)
 
-## Источники и релевантные ссылки
+## Прочие источники и релевантные ссылки
 
 ### Как начать?
 
@@ -85,17 +94,6 @@
 
 - [Как попасть в команду Flutter (Contributor access)](https://github.com/flutter/flutter/blob/961ce3ec82ab88237be012c24eee24f9b10591dd/docs/contributing/Contributor-access.md)
 - [Google Open Source Peer Bonus 2023](https://opensource.googleblog.com/2023/12/google-open-source-peer-bonus-program-announces-second-group-of-2023-winners.html)
-
-### Зачем это бизнесу?
-
-#### Flutter + Yandex Open source
-
-- yx_scope
-  - [Обзор на Habr](https://habr.com/ru/companies/yandex/articles/852278/)
-  - [pub](https://pub.dev/packages/yx_scope)
-- yx_state
-  - [Обзор на Habr](https://habr.com/ru/companies/yandex/articles/933726/)
-  - [pub](https://pub.dev/packages/yx_state)
 
 ## Изображения
 
