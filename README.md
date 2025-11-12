@@ -4,13 +4,16 @@
 - Мой телеграм [@nt4f04und](https://t.me/nt4f04und)
 - Мой LinkedIn [@nt4f04und](https://www.linkedin.com/in/nt4f04und/)
 
-## Источники
+## Рассказы коллег
 
-### Общее
+- [Богдан Лукин — Как я перестал бояться и полюбил компилятор Dart ](https://www.youtube.com/watch?v=ygr7WrCgEe4)
+- Vyacheslav Egorov - Contributing a change to Dart SDK Core Libraries
+  - [Part 1](https://www.youtube.com/watch?v=f01bFCYy0Uk)
+  - [Part 2](https://www.youtube.com/watch?v=r0irDLVOXyw)
+- [Сергей Бережной — «Зачем мы занимаемся опенсорсом? А они? А вы?» ](https://www.youtube.com/watch?v=cdEU2jNVYRM)
+- [Ролик от команды Flutter, вдохновивший доклад: How to contribute to Flutter (The Boring Flutter Development Show, Ep. 53)](https://www.youtube.com/watch?v=4yBgOBAOx_A)
 
-#### Ролик от команды Flutter, вдохновивший доклад
-
-- [How to contribute to Flutter (The Boring Flutter Development Show, Ep. 53)](https://www.youtube.com/watch?v=4yBgOBAOx_A)
+## Источники и релевантные ссылки
 
 ### Как начать?
 
@@ -93,16 +96,6 @@
 - yx_state
   - [Обзор на Habr](https://habr.com/ru/companies/yandex/articles/933726/)
   - [pub](https://pub.dev/packages/yx_state)
-
-### Выводы
-
-#### Рассказы коллег
-
-- [Богдан Лукин — Как я перестал бояться и полюбил компилятор Dart ](https://www.youtube.com/watch?v=ygr7WrCgEe4)
-- Vyacheslav Egorov - Contributing a change to Dart SDK Core Libraries
-  - [Part 1](https://www.youtube.com/watch?v=f01bFCYy0Uk)
-  - [Part 2](https://www.youtube.com/watch?v=r0irDLVOXyw)
-- [Сергей Бережной — «Зачем мы занимаемся опенсорсом? А они? А вы?» ](https://www.youtube.com/watch?v=cdEU2jNVYRM)
 
 ## Изображения
 
